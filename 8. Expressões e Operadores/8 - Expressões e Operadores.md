@@ -25,3 +25,7 @@
 ## 8.10 - Operador condicional ternário
 * Condição então valor 1 se não valor 2
     * condition ? value1 : value2
+
+## 8.12 - Falsy e truthy
+* __Falsy__ → um valor que é considerado __falso__ em contextos que onde um booleano é obrigatório (condicionais e loops)
+* __Truthy__ → um valor que é considerado __verdadeiro__ em contextos que onde um booleano é obrigatório (condicionais e loops)
